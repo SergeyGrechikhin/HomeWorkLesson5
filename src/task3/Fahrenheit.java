@@ -5,7 +5,7 @@ public class Fahrenheit {
 
     public void toFahrenheit()  {
         double fahrenheit = (celsius * 9 / 5 ) + 32 ;
-        System.out.println(celsius + " Градусов цельсия = " + fahrenheit );
+        System.out.println(celsius + " Градусов цельсия = " +   fahrenheit + " Градусов по Фаренгейту " );
 
     }
 }
